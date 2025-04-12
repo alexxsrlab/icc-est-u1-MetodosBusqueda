@@ -1,18 +1,36 @@
-## Getting Started
+# Práctica de Algoritmos de Ordenamiento
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📌 Información General
 
-## Folder Structure
+- **Título:** Práctica de Algoritmos de Ordenamiento
+- **Asignatura:** Estructura de Datos
+- **Carrera:** Computación
+- **Estudiante:** Ariel Badillo
+- **Fecha:** 12/04/2025
+- **Profesor:** Ing. Pablo Torres
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🛠️ Descripción
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Este proyecto simula un metodo de busqueda de manera lineal en Java, incluyendo:
+- Busqueda lineal
+- Indica la posicion
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🚀 Ejecución
 
-## Dependency Management
+Para ejecutar el proyecto:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Compila el código:
+    ```bash
+    javac App.java
+    ```
+2. Ejecuta la aplicación:
+    ```bash
+    java App
+    ```
+
+---
+
+## 🧑‍💻 Ejemplo de Entrada
