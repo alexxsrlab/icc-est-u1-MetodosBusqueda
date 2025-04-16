@@ -15,7 +15,7 @@ public class ShowConsole {
     }
 
     public int inmputCode(){
-        System.out.println("Ingrese un codigo");
+        System.out.print("Ingrese un codigo: ");
         int code = scanner.nextInt();
         return code;
     }
