@@ -20,7 +20,17 @@ public class ShowConsole {
         return code;
     }
 
+    public String inputName() {
+        System.out.print("Ingrese un nombre: ");
+        scanner.nextLine(); 
+        return scanner.nextLine();
+    }
+
     public void showMessage(String message){
         System.out.println(message);
     }
+
+    
+
+    
 }
